@@ -5,9 +5,9 @@ import "../styles/header.css";
 
 export default function YelpNavbar({signOut}){
     return (
-        <Navbar collapseOnSelect expand="lg" bg="white" variant="dark">
+        <Navbar collapseOnSelect expand="lg" bg="secondary" variant="dark">
             <Container >
-            <Navbar.Brand class="nav-brand" bg="light" fixed="bottom">Restaurant</Navbar.Brand>
+            <Navbar.Brand bg="light" fixed="bottom">Restaurant</Navbar.Brand>
             <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end">
                 <Navbar.Text>
