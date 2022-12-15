@@ -1,0 +1,22 @@
+body {
+    background-color: #e2e2e2;
+}
+
+.input{
+    width: 75%;
+    border-radius: 25px;
+    padding: 20px;
+    border: none;
+}
+
+.create {
+    background: #007fff;
+    height: 20%;
+    margin-left: 40px;
+    margin-top: 65px;
+    width: 20%;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+
