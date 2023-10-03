@@ -1,1 +1,1 @@
-# My Yelp project in student of qwasar [khuoyor_m](https://upskill.us.qwasar.io/users/khudoyor_m)
+# My Yelp project- deploy an old application to the cloud.
